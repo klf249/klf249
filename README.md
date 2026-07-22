@@ -1,64 +1,101 @@
 <div align="center">
 
-# Walker
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0D1117,55:1F6FEB,100:58A6FF&text=Walker&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=Discord%20bots%20%C2%B7%20backend%20%C2%B7%20automation&descAlignY=59&animation=fadeIn" width="100%" alt="Walker profile banner" />
 
-### Backend & automation developer focused on Discord ecosystems
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=19&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+useful+Discord+tools;Improving+projects+through+real+releases;JavaScript+%C2%B7+Node.js+%C2%B7+Python+%C2%B7+SQLite" alt="Profile introduction" />
 
-I build practical bots, backend services and community tools with a focus on reliability, security and clear documentation.
+<br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-klf249-181717?style=flat-square&logo=github)](https://github.com/klf249)
-[![Profile views](https://komarev.com/ghpvc/?username=klf249&style=flat-square&color=0A66C2&label=Profile+views)](https://github.com/klf249)
+[![GitHub](https://img.shields.io/badge/@klf249-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/klf249)
+[![Profile views](https://komarev.com/ghpvc/?username=klf249&label=PROFILE+VIEWS&color=1F6FEB&style=for-the-badge)](https://github.com/klf249)
+[![Followers](https://img.shields.io/github/followers/klf249?style=for-the-badge&logo=github&label=FOLLOWERS&color=0D1117)](https://github.com/klf249?tab=followers)
 
 </div>
 
-## About
+## About me
 
-I started publishing projects on GitHub in 2024, initially through Discord bot experiments and deployment tooling. My current work focuses on making those ideas more maintainable, secure and easier to use.
+I build Discord bots and backend tools, mainly with **JavaScript, Node.js, Python and SQLite**. I started publishing projects on GitHub in 2024 and now focus on making them more reliable, easier to deploy and better documented.
 
-- Building Discord bots, automation systems and backend utilities
-- Working mainly with JavaScript, Node.js, Python and SQLite
-- Improving project structure, deployment workflows and documentation
-- Interested in open-source collaboration and reusable tooling
+- Discord bots, moderation tools and community systems
+- Persistent data, automation and deployment workflows
+- Practical projects that can be installed and used
+- Ongoing work on testing, security and code structure
 
 ## Selected projects
 
-### [Casino Bot](https://github.com/klf249/casino-bot)
-A feature-rich Discord economy and casino bot with games, inventory, moderation, audit logs and persistent data.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-`Node.js` · `discord.js` · `SQLite`
+### 🎰 [Casino Bot](https://github.com/klf249/casino-bot)
 
-### [Discord Verification Bot](https://github.com/klf249/discord-verification-bot)
-A Python-based verification system for Discord communities with administrative commands, persistence and deployment support.
+Discord economy and casino bot with games, inventory, moderation, audit logs and persistent data.
 
-`Python` · `Discord API` · `Database`
+`Node.js` `discord.js` `SQLite`
 
-### [PSI](https://github.com/klf249/psi)
-A Discord bot setup and deployment project focused on configuration, hosting and practical server administration.
+</td>
+<td width="50%" valign="top">
 
-`Node.js` · `Discord` · `Deployment`
+### 🔐 [Discord Verification Bot](https://github.com/klf249/discord-verification-bot)
 
-## Technical stack
+Verification system for Discord communities with administrative commands, persistence and deployment support.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,nodejs,python,discord,sqlite,git,github,linux,vscode&theme=light" alt="JavaScript, Node.js, Python, Discord, SQLite, Git, GitHub, Linux and VS Code" />
-</p>
+`Python` `Discord API` `Database`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 [PSI](https://github.com/klf249/psi)
+
+Discord bot setup and deployment project focused on configuration, hosting and server administration.
+
+`Node.js` `Discord` `Deployment`
+
+</td>
+<td width="50%" valign="top">
+
+### 📦 [More repositories](https://github.com/klf249?tab=repositories)
+
+Other experiments, bots and tools published across my GitHub account.
+
+`Open source` `Experiments` `Utilities`
+
+</td>
+</tr>
+</table>
+
+## Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,discord,sqlite,git,github,linux,vscode,npm&theme=dark&perline=10" alt="JavaScript, Node.js, Python, Discord, SQLite, Git, GitHub, Linux, VS Code and npm" />
+
+</div>
 
 ## GitHub activity
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=klf249&show_icons=true&hide_border=true&include_all_commits=true&theme=default" alt="GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klf249&layout=compact&hide_border=true&langs_count=6&theme=default" alt="Most used languages" />
-</p>
+<div align="center">
 
-## Current direction
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=klf249&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klf249&layout=compact&hide_border=true&langs_count=6&theme=github_dark" alt="Most used languages" />
 
-- Improve automated testing and continuous integration
-- Publish more reusable open-source tools
-- Strengthen security and deployment practices
-- Contribute to external projects
+<br/>
 
----
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=klf249&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20activity" alt="GitHub contribution activity" />
 
-<p align="center">
-  <sub>Building practical software, one iteration at a time.</sub>
-</p>
+</div>
+
+## Currently improving
+
+- Automated tests and continuous integration
+- Project security and deployment practices
+- Documentation for public repositories
+- Reusable tools for Discord communities
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=105&color=0:0D1117,55:1F6FEB,100:58A6FF&section=footer" width="100%" alt="Profile footer" />
+
+</div>
