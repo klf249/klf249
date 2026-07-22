@@ -66,11 +66,19 @@ Other experiments, bots and tools published across my GitHub account.
 </tr>
 </table>
 
-## Stack
+## Technologies used
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,nodejs,python,discord,sqlite,git,github,linux,vscode,npm&theme=dark&perline=10" alt="JavaScript, Node.js, Python, Discord, SQLite, Git, GitHub, Linux, VS Code and npm" />
+
+<br/><br/>
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=node.js&logoColor=5FA04E)
+![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=3776AB)
+![discord.js](https://img.shields.io/badge/discord.js-0D1117?style=flat-square&logo=discord&logoColor=5865F2)
+![SQLite](https://img.shields.io/badge/SQLite-0D1117?style=flat-square&logo=sqlite&logoColor=58A6FF)
 
 </div>
 
@@ -78,8 +86,7 @@ Other experiments, bots and tools published across my GitHub account.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=klf249&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=klf249&layout=compact&hide_border=true&langs_count=6&theme=github_dark" alt="Most used languages" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=klf249&show_icons=true&hide_border=true&include_all_commits=true&theme=github_dark&rank_icon=github" alt="GitHub statistics" />
 
 <br/>
 
