@@ -2,12 +2,12 @@
 
 <img src="./assets/profile-banner.svg" width="100%" alt="Walker — Full-Stack Developer and Product Builder" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&pause=1300&color=8CCBFF&center=true&vCenter=true&width=920&height=46&lines=Full-stack+developer+%26+product+builder;Mobile+%C2%B7+Backend+%C2%B7+Real-time+%C2%B7+Infrastructure;Building+polished+software+from+idea+to+production" alt="Animated introduction" />
+<br/>
 
-[![Tucapp](https://img.shields.io/badge/TUCAPP-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tucapp.com)
-[![Web](https://img.shields.io/badge/WEB_APP-4f46e5?style=for-the-badge&logo=pwa&logoColor=white)](https://app.tucapp.com)
-[![App Store](https://img.shields.io/badge/APP_STORE-0891b2?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/fr/app/tucapp/id6784702798)
-[![GitHub](https://img.shields.io/badge/%40KLF249-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/klf249)
+[![Tucapp](https://img.shields.io/badge/TUCAPP-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=241407)](https://tucapp.com)
+[![Web App](https://img.shields.io/badge/WEB_APP-241407?style=for-the-badge&logo=pwa&logoColor=FBF4E9)](https://app.tucapp.com)
+[![App Store](https://img.shields.io/badge/APP_STORE-FFD23F?style=for-the-badge&logo=appstore&logoColor=241407)](https://apps.apple.com/fr/app/tucapp/id6784702798)
+[![GitHub](https://img.shields.io/badge/@KLF249-211B13?style=for-the-badge&logo=github&logoColor=FBF4E9)](https://github.com/klf249)
 
 </div>
 
@@ -15,20 +15,18 @@
 
 ## About
 
-I'm **Walker**, a **full-stack developer and product builder**. I like taking a product from an idea to something people can actually use — shaping the interface, building the backend, connecting real-time systems, and making the whole thing dependable in production.
+I'm **Walker**, a **full-stack developer and product builder**. I build products end to end — interface, mobile, backend, real-time systems, infrastructure and release quality.
 
-My main project is **Tucapp**. Most of my work sits at the intersection of **mobile engineering, backend systems, real-time features, product polish and infrastructure**.
+My main project is **Tucapp**, where I focus on making the product feel coherent from the first interaction all the way to production.
 
 <div align="center">
-<img src="./assets/stack-orbit.svg" width="100%" alt="Animated engineering orbit" />
+<img src="./assets/systems-flow.svg" width="100%" alt="Animated product-to-production flow" />
 </div>
-
-<img src="./assets/section-pulse.svg" width="100%" alt="" />
 
 ## Build loop
 
 <div align="center">
-<img src="./assets/terminal-loop.svg" width="100%" alt="Animated developer terminal" />
+<img src="./assets/terminal-loop.svg" width="100%" alt="Animated build loop" />
 </div>
 
 ## What I work with
@@ -55,14 +53,14 @@ Authentication · API design · Production architecture
 
 **Real-time**  
 LiveKit · WebRTC · Messaging · Push notifications  
-Voice features · Presence · Social interaction systems
+Voice · Presence · Social interaction systems
 
 </td>
 <td width="50%" valign="top">
 
 **Infrastructure & Quality**  
 Vercel · Neon · Cloudflare R2 · OVH / Coolify  
-CI / validation · Security hardening · Release reliability
+CI · Security hardening · Release reliability
 
 </td>
 </tr>
@@ -73,13 +71,7 @@ CI / validation · Security hardening · Release reliability
 ## Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=ts,react,nodejs,go,postgres,redis,git,github,linux,docker,vercel&theme=dark&perline=11" alt="Technology stack" />
-
-<br/><br/>
-
-`React Native` · `Expo` · `TypeScript` · `Go` · `PostgreSQL` · `Redis` · `LiveKit` · `Vercel` · `Neon` · `Cloudflare R2`
-
+<img src="./assets/stack-strip.svg" width="100%" alt="Walker technology stack" />
 </div>
 
 <img src="./assets/section-pulse.svg" width="100%" alt="" />
@@ -87,14 +79,8 @@ CI / validation · Security hardening · Release reliability
 ## Currently building
 
 **Tucapp** — a cross-platform social product for **iOS, Android and the web**.  
-My focus is making it feel **polished, fast and dependable** across the entire stack.
+Current focus: **product polish · real-device reliability · backend clarity · release quality**.
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/klf249/klf249/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
-
-</div>
-
-<img src="./assets/footer-wave.svg" width="100%" alt="Animated footer" />
+<img src="./assets/footer-wave.svg" width="100%" alt="Animated Tucapp-style footer" />
 
 <div align="center"><sub>Founder & Full-Stack Developer · @klf249</sub></div>

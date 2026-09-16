@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="34" viewBox="0 0 1200 34"><defs><linearGradient id="l"><stop stop-color="#0A1024" stop-opacity="0"/><stop offset=".5" stop-color="#60A5FA"/><stop offset="1" stop-color="#0A1024" stop-opacity="0"/></linearGradient><filter id="b"><feGaussianBlur stdDeviation="4"/></filter></defs><rect x="0" y="16" width="1200" height="1.5" fill="url(#l)" opacity=".5"/><circle cx="120" cy="17" r="4" fill="#A5B4FC"><animate attributeName="cx" values="100;1100;100" dur="6s" repeatCount="indefinite"/></circle><circle cx="120" cy="17" r="12" fill="#60A5FA" opacity=".23" filter="url(#b)"><animate attributeName="cx" values="100;1100;100" dur="6s" repeatCount="indefinite"/></circle></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="34" viewBox="0 0 1200 34">
+<rect x="70" y="16" width="1060" height="2" rx="1" fill="#2C241A"/>
+<rect x="70" y="16" width="220" height="2" rx="1" fill="#FF6B35"><animate attributeName="x" values="70;910;70" dur="7s" repeatCount="indefinite"/></rect>
+<circle cx="286" cy="17" r="4" fill="#FFD23F"><animate attributeName="cx" values="286;1126;286" dur="7s" repeatCount="indefinite"/></circle>
+</svg>

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150">
+<rect x="18" y="18" width="1164" height="114" rx="22" fill="#16120C" stroke="#FBF4E9" stroke-opacity=".08"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" text-anchor="middle">
+ <g transform="translate(105 75)"><rect x="-62" y="-22" width="124" height="44" rx="22" fill="#211B13"/><text y="5" fill="#FBF4E9">React Native</text></g>
+ <g transform="translate(245 75)"><rect x="-54" y="-22" width="108" height="44" rx="22" fill="#211B13"/><text y="5" fill="#FBF4E9">Expo</text></g>
+ <g transform="translate(380 75)"><rect x="-62" y="-22" width="124" height="44" rx="22" fill="#211B13"/><text y="5" fill="#FBF4E9">TypeScript</text></g>
+ <g transform="translate(510 75)"><rect x="-48" y="-22" width="96" height="44" rx="22" fill="#FF6B35"/><text y="5" fill="#241407">Go</text></g>
+ <g transform="translate(650 75)"><rect x="-66" y="-22" width="132" height="44" rx="22" fill="#211B13"/><text y="5" fill="#FBF4E9">PostgreSQL</text></g>
+ <g transform="translate(785 75)"><rect x="-48" y="-22" width="96" height="44" rx="22" fill="#211B13"/><text y="5" fill="#FBF4E9">Redis</text></g>
+ <g transform="translate(915 75)"><rect x="-54" y="-22" width="108" height="44" rx="22" fill="#FFD23F"/><text y="5" fill="#241407">LiveKit</text></g>
+ <g transform="translate(1065 75)"><rect x="-72" y="-22" width="144" height="44" rx="22" fill="#211B13"/><text y="5" fill="#FBF4E9">Vercel · Neon</text></g>
+</g>
+<circle cx="510" cy="120" r="3" fill="#FF6B35"><animate attributeName="cx" values="80;1120;80" dur="9s" repeatCount="indefinite"/></circle>
+</svg>
