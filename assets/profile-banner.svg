@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Walker — Founder and Full-Stack Developer</title>
+  <desc id="desc">A dark blue developer profile banner with subtle geometric details.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#07111f"/>
+      <stop offset="48%" stop-color="#0b1b33"/>
+      <stop offset="100%" stop-color="#123b67"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="72%" cy="34%" r="60%">
+      <stop offset="0%" stop-color="#55b8ff" stop-opacity="0.34"/>
+      <stop offset="100%" stop-color="#55b8ff" stop-opacity="0"/>
+    </radialGradient>
+    <filter id="blur"><feGaussianBlur stdDeviation="22"/></filter>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse">
+      <path d="M 44 0 L 0 0 0 44" fill="none" stroke="#8cc8ff" stroke-opacity="0.055" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="28" fill="url(#bg)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#grid)"/>
+  <rect width="1200" height="320" rx="28" fill="url(#glow)"/>
+  <circle cx="1032" cy="74" r="84" fill="#2f80ed" opacity="0.14" filter="url(#blur)"/>
+  <circle cx="1108" cy="246" r="106" fill="#38bdf8" opacity="0.10" filter="url(#blur)"/>
+  <g opacity="0.24" fill="none" stroke="#86c8ff">
+    <path d="M885 84h128l54 54-54 54H885l-54-54z"/>
+    <path d="M955 112h86l34 34-34 34h-86l-34-34z"/>
+    <circle cx="1080" cy="96" r="7" fill="#86c8ff" stroke="none"/>
+    <circle cx="852" cy="224" r="5" fill="#86c8ff" stroke="none"/>
+  </g>
+  <g transform="translate(76,72)">
+    <rect x="0" y="0" width="48" height="6" rx="3" fill="#55b8ff"/>
+    <text x="0" y="72" fill="#ffffff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="62" font-weight="700" letter-spacing="-1">Walker</text>
+    <text x="2" y="114" fill="#a9c5df" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="500">Founder · Full-Stack Developer · Product Builder</text>
+    <text x="2" y="158" fill="#7ea6c9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Mobile · Web · Backend · Real-time · Infrastructure</text>
+  </g>
+  <g transform="translate(76,252)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="600">
+    <rect width="110" height="34" rx="17" fill="#ffffff" fill-opacity="0.08" stroke="#ffffff" stroke-opacity="0.10"/>
+    <text x="55" y="22" text-anchor="middle" fill="#d8ebfb">TUCAPP</text>
+    <rect x="122" width="124" height="34" rx="17" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/>
+    <text x="184" y="22" text-anchor="middle" fill="#b8d1e6">PRODUCTION</text>
+    <rect x="258" width="116" height="34" rx="17" fill="#ffffff" fill-opacity="0.05" stroke="#ffffff" stroke-opacity="0.08"/>
+    <text x="316" y="22" text-anchor="middle" fill="#b8d1e6">SHIP FAST</text>
+  </g>
+</svg>
