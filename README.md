@@ -13,15 +13,11 @@
 
 ## About
 
-I'm **Walker**, a **full-stack developer and product builder**. I work from product decisions and interface quality through backend systems, real-time features, infrastructure and release reliability.
+I'm **Walker**, a **full-stack developer and product builder** working across product, mobile, backend, real-time systems and production infrastructure.
 
-My main project is **Tucapp** — a product I build across **iOS, Android and the web**.
+I care about software that feels intentional: clear interfaces, dependable systems, and releases that hold up on real devices.
 
-<img src="./assets/systems-flow.svg" width="100%" alt="Product to production engineering flow" />
-
-## Build loop
-
-<img src="./assets/terminal-loop.svg" width="100%" alt="Animated build workflow" />
+<img src="./assets/craft-panel.svg" width="100%" alt="Product, systems and delivery" />
 
 ## What I work with
 
@@ -29,19 +25,13 @@ My main project is **Tucapp** — a product I build across **iOS, Android and th
 
 <img src="./assets/section-pulse.svg" width="100%" alt="" />
 
-## Stack
+## Core stack
 
 <img src="./assets/stack-strip.svg" width="100%" alt="Core technology stack" />
 
-<img src="./assets/section-pulse.svg" width="100%" alt="" />
+## Featured build
 
-## Currently building
-
-**Tucapp** — focused on product polish, real-device reliability and clean production systems.
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/klf249/klf249/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
-</div>
+<a href="https://tucapp.com"><img src="./assets/tucapp-card.svg" width="100%" alt="Tucapp — cross-platform social product" /></a>
 
 <img src="./assets/footer-wave.svg" width="100%" alt="Animated footer" />
 

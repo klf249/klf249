@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="220" viewBox="0 0 1200 220" role="img" aria-labelledby="t d">
+<title id="t">How Walker builds</title><desc id="d">Three-part product engineering panel in Tucapp colors.</desc>
+<rect width="1200" height="220" rx="26" fill="#111318"/>
+<rect x="1" y="1" width="1198" height="218" rx="25" fill="none" stroke="#F7EEDD" stroke-opacity=".12"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+  <text x="52" y="48" fill="#F7EEDD" font-size="14" font-weight="700" letter-spacing="2">HOW I BUILD</text>
+  <text x="52" y="78" fill="#B8AB98" font-size="13">One product, end to end.</text>
+  <g transform="translate(52 108)">
+    <rect width="320" height="76" rx="18" fill="#191A1F" stroke="#F7EEDD" stroke-opacity=".10"/>
+    <circle cx="28" cy="26" r="8" fill="#FF6B35"/><text x="48" y="31" fill="#F7EEDD" font-size="15" font-weight="700">Product</text>
+    <text x="28" y="57" fill="#B8AB98" font-size="12">UX · interaction · visual polish</text>
+  </g>
+  <g transform="translate(440 108)">
+    <rect width="320" height="76" rx="18" fill="#191A1F" stroke="#F7EEDD" stroke-opacity=".10"/>
+    <circle cx="28" cy="26" r="8" fill="#F7EEDD"/><text x="48" y="31" fill="#F7EEDD" font-size="15" font-weight="700">Systems</text>
+    <text x="28" y="57" fill="#B8AB98" font-size="12">mobile · backend · real-time</text>
+  </g>
+  <g transform="translate(828 108)">
+    <rect width="320" height="76" rx="18" fill="#191A1F" stroke="#F7EEDD" stroke-opacity=".10"/>
+    <circle cx="28" cy="26" r="8" fill="#FFD23F"/><text x="48" y="31" fill="#F7EEDD" font-size="15" font-weight="700">Delivery</text>
+    <text x="28" y="57" fill="#B8AB98" font-size="12">quality · release · production</text>
+  </g>
+  <path d="M378 146H428" stroke="#FF6B35" stroke-width="2" stroke-linecap="round" stroke-dasharray="5 8">
+    <animate attributeName="stroke-dashoffset" values="0;-26" dur="2s" repeatCount="indefinite"/>
+  </path>
+  <path d="M766 146H816" stroke="#FFD23F" stroke-width="2" stroke-linecap="round" stroke-dasharray="5 8">
+    <animate attributeName="stroke-dashoffset" values="0;-26" dur="2s" repeatCount="indefinite"/>
+  </path>
+</g>
+</svg>

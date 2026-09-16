@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="t d">
+<title id="t">Tucapp project card</title><desc id="d">Tucapp founder project card using the product's warm brand palette.</desc>
+<rect width="1200" height="230" rx="26" fill="#F7EEDD"/>
+<rect x="1" y="1" width="1198" height="228" rx="25" fill="none" stroke="#2A2017" stroke-opacity=".10"/>
+<g font-family="Inter,Segoe UI,Arial,sans-serif">
+  <g transform="translate(50 42)">
+    <rect width="92" height="30" rx="15" fill="#FF6B35"/><text x="46" y="20" text-anchor="middle" fill="#241407" font-size="12" font-weight="800">TUCAPP</text>
+    <text y="80" fill="#2A2017" font-size="38" font-weight="800">Building a social product end to end.</text>
+    <text y="116" fill="#6B5D47" font-size="15">iOS · Android · Web · Go API · PostgreSQL · Redis · LiveKit</text>
+    <text y="150" fill="#6B5D47" font-size="14">Founder / product / engineering / infrastructure</text>
+  </g>
+  <g transform="translate(950 44)">
+    <circle cx="72" cy="72" r="62" fill="#2A2017"/>
+    <circle cx="72" cy="72" r="42" fill="none" stroke="#FF6B35" stroke-width="7" stroke-linecap="round" stroke-dasharray="188 76">
+      <animateTransform attributeName="transform" type="rotate" from="0 72 72" to="360 72 72" dur="13s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="72" cy="72" r="20" fill="#FFD23F"/>
+    <circle cx="72" cy="72" r="7" fill="#2A2017"/>
+  </g>
+</g>
+</svg>
