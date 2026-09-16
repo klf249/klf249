@@ -1,28 +1,27 @@
 <div align="center">
 
-<img src="./assets/profile-banner.svg" width="100%" alt="Walker — Founder and Full-Stack Developer" />
+<img src="./assets/profile-banner.svg" width="100%" alt="Walker — Full-Stack Developer and Product Builder" />
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&pause=1300&color=8CCBFF&center=true&vCenter=true&width=920&height=46&lines=Full-stack+developer+%26+product+builder;Mobile+%C2%B7+Backend+%C2%B7+Real-time+%C2%B7+Infrastructure;Building+polished+software+from+idea+to+production" alt="Animated introduction" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=21&pause=1100&color=93C5FD&center=true&vCenter=true&width=900&lines=Full-stack+developer+%26+product+builder;Cross-platform+iOS+%2F+Android+%2F+Web;Backend%2C+real-time+systems+%26+infrastructure;Shipping+software+that+feels+clean%2C+fast+and+real" alt="Animated introduction" />
-
-<br/>
-<br/>
-
-[![Tucapp](https://img.shields.io/badge/TUCAPP-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tucapp.com)
-[![Web App](https://img.shields.io/badge/WEB_APP-1d4ed8?style=for-the-badge&logo=pwa&logoColor=white)](https://app.tucapp.com)
+[![Tucapp](https://img.shields.io/badge/TUCAPP-0b1220?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tucapp.com)
+[![Web](https://img.shields.io/badge/WEB_APP-1d4ed8?style=for-the-badge&logo=pwa&logoColor=white)](https://app.tucapp.com)
 [![App Store](https://img.shields.io/badge/APP_STORE-0ea5e9?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/fr/app/tucapp/id6784702798)
 [![GitHub](https://img.shields.io/badge/%40KLF249-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/klf249)
 
 </div>
 
-<img src="./assets/section-pulse.svg" width="100%" alt="Animated divider" />
+<img src="./assets/section-pulse.svg" width="100%" alt="" />
 
 ## About
 
-I'm **Walker**, a **full-stack developer and product builder** focused on turning ideas into polished, production-ready software.
+I'm **Walker**, a **full-stack developer and product builder**. I like taking a product from an idea to something people can actually use — shaping the interface, building the backend, connecting real-time systems, and making the whole thing dependable in production.
 
-I work across the full product lifecycle — from interface and product decisions to backend systems, real-time architecture, release workflows and infrastructure. My main project is **Tucapp**, where I bring those layers together into one product.
+My main project is **Tucapp**. Most of my work sits at the intersection of **mobile engineering, backend systems, real-time features, product polish and infrastructure**.
+
+<div align="center">
+<img src="./assets/systems-flow.svg" width="100%" alt="Animated overview of Walker's engineering stack" />
+</div>
 
 ## What I work with
 
@@ -30,38 +29,38 @@ I work across the full product lifecycle — from interface and product decision
 <tr>
 <td width="50%" valign="top">
 
-### Frontend & Mobile
-`React Native` · `Expo` · `React` · `TypeScript`  
-Responsive UI · Cross-platform architecture · Native release workflows
+**Frontend & Mobile**  
+React Native · Expo · React · TypeScript  
+Responsive UI · Cross-platform architecture · Native releases
 
 </td>
 <td width="50%" valign="top">
 
-### Backend & Data
-`Go` · `REST APIs` · `PostgreSQL` · `Redis`  
-Authentication · API design · Production backend architecture
+**Backend & Data**  
+Go · REST APIs · PostgreSQL · Redis  
+Authentication · API design · Production architecture
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### Real-time
-`LiveKit` · `WebRTC` · Messaging · Push notifications  
+**Real-time**  
+LiveKit · WebRTC · Messaging · Push notifications  
 Voice features · Presence · Social interaction systems
 
 </td>
 <td width="50%" valign="top">
 
-### Infrastructure & Quality
-`Vercel` · `Neon` · `Cloudflare R2` · `OVH / Coolify`  
+**Infrastructure & Quality**  
+Vercel · Neon · Cloudflare R2 · OVH / Coolify  
 CI / validation · Security hardening · Release reliability
 
 </td>
 </tr>
 </table>
 
-<img src="./assets/section-pulse.svg" width="100%" alt="Animated divider" />
+<img src="./assets/section-pulse.svg" width="100%" alt="" />
 
 ## Stack
 
@@ -75,18 +74,19 @@ CI / validation · Security hardening · Release reliability
 
 </div>
 
-<img src="./assets/section-pulse.svg" width="100%" alt="Animated divider" />
+<img src="./assets/section-pulse.svg" width="100%" alt="" />
 
 ## Currently building
 
 **Tucapp** — a cross-platform social product for **iOS, Android and the web**.  
-My focus is on making it feel **polished, fast and dependable** across the entire stack.
+My focus is making it feel **polished, fast and dependable** across the entire stack.
 
 <div align="center">
 
-<br/>
-<img src="./assets/footer-wave.svg" width="100%" alt="Animated footer" />
-
-<sub>Founder & Full-Stack Developer · @klf249</sub>
+<img src="https://raw.githubusercontent.com/klf249/klf249/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
 
 </div>
+
+<img src="./assets/footer-wave.svg" width="100%" alt="Animated footer" />
+
+<div align="center"><sub>Founder & Full-Stack Developer · @klf249</sub></div>

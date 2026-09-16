@@ -1,87 +1,18 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Walker — Founder and Full-Stack Developer</title>
-  <desc id="desc">Animated dark blue developer profile banner with motion, particles, a live status card and geometric accents.</desc>
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#06101d"><animate attributeName="stop-color" values="#06101d;#091b35;#06101d" dur="10s" repeatCount="indefinite"/></stop>
-      <stop offset="52%" stop-color="#102a4b"><animate attributeName="stop-color" values="#102a4b;#123c70;#102a4b" dur="10s" repeatCount="indefinite"/></stop>
-      <stop offset="100%" stop-color="#124a78"><animate attributeName="stop-color" values="#124a78;#1d64a0;#124a78" dur="10s" repeatCount="indefinite"/></stop>
-    </linearGradient>
-    <radialGradient id="glowA" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(930 84) rotate(90) scale(230 320)">
-      <stop stop-color="#38bdf8" stop-opacity="0.28"/><stop offset="1" stop-color="#38bdf8" stop-opacity="0"/>
-    </radialGradient>
-    <radialGradient id="glowB" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(220 300) rotate(90) scale(180 280)">
-      <stop stop-color="#2563eb" stop-opacity="0.26"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/>
-    </radialGradient>
-    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#38bdf8"/><stop offset="1" stop-color="#93c5fd"/></linearGradient>
-    <linearGradient id="cardStroke" x1="820" y1="48" x2="1130" y2="280"><stop stop-color="#bfdbfe" stop-opacity="0.62"/><stop offset="1" stop-color="#ffffff" stop-opacity="0.1"/></linearGradient>
-    <pattern id="grid" width="52" height="52" patternUnits="userSpaceOnUse"><path d="M52 0H0V52" fill="none" stroke="#b8dcff" stroke-opacity="0.045"/></pattern>
-    <filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
-    <filter id="shadow"><feDropShadow dx="0" dy="18" stdDeviation="22" flood-color="#000" flood-opacity="0.28"/></filter>
-  </defs>
-
-  <rect width="1200" height="360" rx="28" fill="url(#bg)"/>
-  <rect width="1200" height="360" rx="28" fill="url(#grid)"/>
-
-  <g filter="url(#blur)">
-    <circle cx="930" cy="84" r="210" fill="url(#glowA)"><animate attributeName="cx" values="900;980;900" dur="13s" repeatCount="indefinite"/><animate attributeName="cy" values="70;105;70" dur="11s" repeatCount="indefinite"/></circle>
-    <circle cx="220" cy="300" r="170" fill="url(#glowB)"><animate attributeName="cx" values="210;260;210" dur="14s" repeatCount="indefinite"/><animate attributeName="cy" values="310;270;310" dur="12s" repeatCount="indefinite"/></circle>
-  </g>
-
-  <g opacity="0.3" fill="#dbeafe">
-    <circle cx="92" cy="54" r="3"><animate attributeName="cy" values="54;34;54" dur="4.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.15;0.85;0.15" dur="4.8s" repeatCount="indefinite"/></circle>
-    <circle cx="302" cy="88" r="2.5"><animate attributeName="cy" values="88;68;88" dur="5.6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.12;0.7;0.12" dur="5.6s" repeatCount="indefinite"/></circle>
-    <circle cx="516" cy="50" r="3"><animate attributeName="cy" values="50;70;50" dur="5.1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.16;0.8;0.16" dur="5.1s" repeatCount="indefinite"/></circle>
-    <circle cx="742" cy="76" r="2.5"><animate attributeName="cy" values="76;56;76" dur="4.9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.12;0.68;0.12" dur="4.9s" repeatCount="indefinite"/></circle>
-    <circle cx="1104" cy="104" r="3"><animate attributeName="cy" values="104;124;104" dur="6.2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.14;0.74;0.14" dur="6.2s" repeatCount="indefinite"/></circle>
-  </g>
-
-  <path d="M0 282C118 250 222 310 342 290C476 266 584 210 706 222C850 236 930 318 1066 300C1130 292 1168 274 1200 268V360H0Z" fill="#fff" fill-opacity="0.055">
-    <animate attributeName="d" dur="11s" repeatCount="indefinite" values="M0 282C118 250 222 310 342 290C476 266 584 210 706 222C850 236 930 318 1066 300C1130 292 1168 274 1200 268V360H0Z;M0 294C130 264 230 298 360 278C486 258 606 226 726 238C850 250 952 306 1074 288C1146 278 1180 260 1200 256V360H0Z;M0 282C118 250 222 310 342 290C476 266 584 210 706 222C850 236 930 318 1066 300C1130 292 1168 274 1200 268V360H0Z"/>
-  </path>
-
-  <g transform="translate(70 56)" filter="url(#shadow)">
-    <rect width="110" height="34" rx="17" fill="#fff" fill-opacity="0.08" stroke="#fff" stroke-opacity="0.12"/>
-    <circle cx="22" cy="17" r="5" fill="#7dd3fc"><animate attributeName="opacity" values="0.45;1;0.45" dur="2.2s" repeatCount="indefinite"/></circle>
-    <text x="40" y="22" fill="#e7f3ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">Tucapp</text>
-
-    <rect y="58" width="54" height="4" rx="2" fill="url(#line)"><animate attributeName="width" values="34;76;34" dur="4s" repeatCount="indefinite"/></rect>
-    <text y="122" fill="#fff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="-1">Walker</text>
-    <text y="158" fill="#d7eafe" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="21" font-weight="600">Founder · Full-Stack Developer · Product Builder</text>
-    <text y="202" fill="#9ec7e7" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Mobile · Web · Backend · Real-time · Infrastructure</text>
-
-    <g transform="translate(0 236)" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700">
-      <rect width="108" height="32" rx="16" fill="#fff" fill-opacity="0.07" stroke="#fff" stroke-opacity="0.1"/><text x="54" y="21" text-anchor="middle" fill="#eef7ff">TUCAPP</text>
-      <rect x="120" width="120" height="32" rx="16" fill="#fff" fill-opacity="0.055" stroke="#fff" stroke-opacity="0.09"/><text x="180" y="21" text-anchor="middle" fill="#c4def2">PRODUCTION</text>
-      <rect x="252" width="112" height="32" rx="16" fill="#fff" fill-opacity="0.055" stroke="#fff" stroke-opacity="0.09"/><text x="308" y="21" text-anchor="middle" fill="#c4def2">SHIP FAST</text>
-    </g>
-  </g>
-
-  <g transform="translate(812 58)" filter="url(#shadow)">
-    <rect width="326" height="228" rx="24" fill="#07111f" fill-opacity="0.44" stroke="url(#cardStroke)" stroke-width="1.2"/>
-    <rect width="326" height="42" rx="24" fill="#fff" fill-opacity="0.05"/>
-    <circle cx="24" cy="21" r="5" fill="#fb7185"/><circle cx="44" cy="21" r="5" fill="#fbbf24"/><circle cx="64" cy="21" r="5" fill="#34d399"/>
-    <text x="24" y="72" fill="#eef7ff" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">LIVE / BUILDING</text>
-
-    <text x="24" y="102" fill="#aac8e0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Product polish</text>
-    <rect x="24" y="110" width="212" height="10" rx="5" fill="#fff" fill-opacity="0.08"/><rect x="24" y="110" width="156" height="10" rx="5" fill="url(#line)"><animate attributeName="width" values="126;198;156;126" dur="5.2s" repeatCount="indefinite"/></rect>
-
-    <text x="24" y="144" fill="#aac8e0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Real-device reliability</text>
-    <rect x="24" y="152" width="212" height="10" rx="5" fill="#fff" fill-opacity="0.08"/><rect x="24" y="152" width="132" height="10" rx="5" fill="#dbeafe" fill-opacity="0.76"><animate attributeName="width" values="104;174;132;104" dur="5.9s" repeatCount="indefinite"/></rect>
-
-    <text x="24" y="186" fill="#aac8e0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">Backend architecture</text>
-    <rect x="24" y="194" width="212" height="10" rx="5" fill="#fff" fill-opacity="0.08"/><rect x="24" y="194" width="182" height="10" rx="5" fill="url(#line)"><animate attributeName="width" values="142;208;182;142" dur="4.8s" repeatCount="indefinite"/></rect>
-
-    <circle cx="275" cy="114" r="30" fill="none" stroke="#7dd3fc" stroke-opacity="0.18" stroke-width="1.5"><animate attributeName="r" values="22;34;22" dur="4.4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0.25;0.6;0.25" dur="4.4s" repeatCount="indefinite"/></circle>
-    <circle cx="275" cy="114" r="4" fill="#7dd3fc"><animate attributeName="opacity" values="0.35;1;0.35" dur="2.2s" repeatCount="indefinite"/></circle>
-  </g>
-
-  <g opacity="0.18" fill="none" stroke="#bfe4ff">
-    <path d="M866 42h86l34 34-34 34h-86l-34-34z"><animateTransform attributeName="transform" type="translate" values="0 0;14 0;0 0" dur="9s" repeatCount="indefinite"/></path>
-    <path d="M960 70h62l25 25-25 25h-62l-25-25z"><animateTransform attributeName="transform" type="translate" values="0 0;-10 0;0 0" dur="8s" repeatCount="indefinite"/></path>
-  </g>
-
-  <rect x="0" y="0" width="1200" height="2" fill="url(#line)" opacity="0.75">
-    <animate attributeName="x" values="-1200;1200" dur="8s" repeatCount="indefinite"/>
-  </rect>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
+<title id="title">Walker — Full-Stack Developer and Product Builder</title><desc id="desc">Animated dark blue developer banner.</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1200" y2="350" gradientUnits="userSpaceOnUse"><stop stop-color="#07101d"><animate attributeName="stop-color" values="#07101d;#0a1830;#07101d" dur="9s" repeatCount="indefinite"/></stop><stop offset=".55" stop-color="#0d315d"><animate attributeName="stop-color" values="#0d315d;#174d8e;#0d315d" dur="9s" repeatCount="indefinite"/></stop><stop offset="1" stop-color="#12598c"><animate attributeName="stop-color" values="#12598c;#167ab5;#12598c" dur="9s" repeatCount="indefinite"/></stop></linearGradient>
+<radialGradient id="glow"><stop stop-color="#70c7ff" stop-opacity=".38"/><stop offset="1" stop-color="#70c7ff" stop-opacity="0"/></radialGradient>
+<filter id="blur"><feGaussianBlur stdDeviation="28"/></filter>
+<linearGradient id="bar"><stop stop-color="#7dd3fc"/><stop offset="1" stop-color="#2563eb"/></linearGradient>
+</defs>
+<rect width="1200" height="350" rx="28" fill="url(#bg)"/>
+<circle cx="1000" cy="80" r="180" fill="url(#glow)" filter="url(#blur)"><animate attributeName="cx" values="960;1040;960" dur="11s" repeatCount="indefinite"/></circle>
+<circle cx="260" cy="320" r="120" fill="#38bdf8" opacity=".08" filter="url(#blur)"><animate attributeName="cx" values="220;310;220" dur="13s" repeatCount="indefinite"/></circle>
+<g opacity=".10" stroke="#b9dcf5"><path d="M0 88H1200M0 176H1200M0 264H1200"/><path d="M150 0V350M300 0V350M450 0V350M600 0V350M750 0V350M900 0V350M1050 0V350"/></g>
+<g fill="#dff2ff" opacity=".46"><circle cx="160" cy="50" r="3"><animate attributeName="cy" values="50;35;50" dur="5s" repeatCount="indefinite"/></circle><circle cx="560" cy="64" r="2.5"><animate attributeName="cy" values="64;82;64" dur="5.8s" repeatCount="indefinite"/></circle><circle cx="1110" cy="78" r="3"><animate attributeName="cy" values="78;96;78" dur="6.3s" repeatCount="indefinite"/></circle></g>
+<path d="M0 282C150 248 256 318 390 290C535 259 650 216 785 238C920 261 1020 326 1200 286V350H0Z" fill="#fff" opacity=".055"><animate attributeName="d" values="M0 282C150 248 256 318 390 290C535 259 650 216 785 238C920 261 1020 326 1200 286V350H0Z;M0 292C148 264 270 307 402 280C540 252 666 229 800 247C930 266 1042 314 1200 276V350H0Z;M0 282C150 248 256 318 390 290C535 259 650 216 785 238C920 261 1020 326 1200 286V350H0Z" dur="10s" repeatCount="indefinite"/></path>
+<g transform="translate(68 62)" font-family="Inter,Segoe UI,Arial,sans-serif"><rect width="100" height="31" rx="15.5" fill="#fff" opacity=".09"/><circle cx="21" cy="15.5" r="4.5" fill="#7dd3fc"/><text x="36" y="20" fill="#e6f4ff" font-size="13" font-weight="700">Tucapp</text><rect y="52" width="52" height="4" rx="2" fill="#7dd3fc"/><text y="116" fill="#fff" font-size="58" font-weight="800">Walker</text><text y="152" fill="#c9e4f7" font-size="21" font-weight="600">Full-Stack Developer · Product Builder</text><text y="195" fill="#9cc3df" font-size="17">Mobile · Web · Backend · Real-time · Infrastructure</text>
+<g transform="translate(0 226)" font-size="12" font-weight="700"><rect width="112" height="30" rx="15" fill="#fff" opacity=".08"/><text x="56" y="19" text-anchor="middle" fill="#eaf6ff">MOBILE</text><rect x="122" width="112" height="30" rx="15" fill="#fff" opacity=".08"/><text x="178" y="19" text-anchor="middle" fill="#eaf6ff">BACKEND</text><rect x="244" width="112" height="30" rx="15" fill="#fff" opacity=".08"/><text x="300" y="19" text-anchor="middle" fill="#eaf6ff">SHIPPING</text></g></g>
+<g transform="translate(820 68)" font-family="Inter,Segoe UI,Arial,sans-serif"><rect width="310" height="205" rx="22" fill="#06101d" opacity=".45" stroke="#bfe4ff" stroke-opacity=".22"/><rect width="310" height="38" rx="22" fill="#fff" opacity=".05"/><circle cx="22" cy="19" r="4.5" fill="#fb7185"/><circle cx="40" cy="19" r="4.5" fill="#fbbf24"/><circle cx="58" cy="19" r="4.5" fill="#34d399"/><text x="22" y="68" fill="#eef8ff" font-size="14" font-weight="700">BUILD STATUS</text><text x="22" y="95" fill="#b7d7ed" font-size="11">product polish</text><rect x="22" y="104" width="225" height="10" rx="5" fill="url(#bar)"><animate attributeName="width" values="160;245;160" dur="4.4s" repeatCount="indefinite"/></rect><text x="22" y="136" fill="#b7d7ed" font-size="11">reliability</text><rect x="22" y="145" width="178" height="10" rx="5" fill="#d7efff" opacity=".76"><animate attributeName="width" values="120;205;120" dur="5.1s" repeatCount="indefinite"/></rect><text x="22" y="177" fill="#b7d7ed" font-size="11">architecture</text><rect x="22" y="186" width="246" height="10" rx="5" fill="url(#bar)"><animate attributeName="width" values="185;258;185" dur="4.8s" repeatCount="indefinite"/></rect></g>
 </svg>
