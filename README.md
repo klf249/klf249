@@ -4,9 +4,9 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=700&size=20&pause=1300&color=8CCBFF&center=true&vCenter=true&width=920&height=46&lines=Full-stack+developer+%26+product+builder;Mobile+%C2%B7+Backend+%C2%B7+Real-time+%C2%B7+Infrastructure;Building+polished+software+from+idea+to+production" alt="Animated introduction" />
 
-[![Tucapp](https://img.shields.io/badge/TUCAPP-0b1220?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tucapp.com)
-[![Web](https://img.shields.io/badge/WEB_APP-1d4ed8?style=for-the-badge&logo=pwa&logoColor=white)](https://app.tucapp.com)
-[![App Store](https://img.shields.io/badge/APP_STORE-0ea5e9?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/fr/app/tucapp/id6784702798)
+[![Tucapp](https://img.shields.io/badge/TUCAPP-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://tucapp.com)
+[![Web](https://img.shields.io/badge/WEB_APP-4f46e5?style=for-the-badge&logo=pwa&logoColor=white)](https://app.tucapp.com)
+[![App Store](https://img.shields.io/badge/APP_STORE-0891b2?style=for-the-badge&logo=appstore&logoColor=white)](https://apps.apple.com/fr/app/tucapp/id6784702798)
 [![GitHub](https://img.shields.io/badge/%40KLF249-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/klf249)
 
 </div>
