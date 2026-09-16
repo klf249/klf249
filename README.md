@@ -2,12 +2,10 @@
 
 <img src="./assets/profile-banner.svg" width="100%" alt="Walker — Full-Stack Developer and Product Builder" />
 
-<br/>
-
 [![Tucapp](https://img.shields.io/badge/TUCAPP-FF6B35?style=for-the-badge&logo=googlechrome&logoColor=241407)](https://tucapp.com)
-[![Web App](https://img.shields.io/badge/WEB_APP-241407?style=for-the-badge&logo=pwa&logoColor=FBF4E9)](https://app.tucapp.com)
+[![Web](https://img.shields.io/badge/WEB_APP-F7EEDD?style=for-the-badge&logo=pwa&logoColor=241407)](https://app.tucapp.com)
 [![App Store](https://img.shields.io/badge/APP_STORE-FFD23F?style=for-the-badge&logo=appstore&logoColor=241407)](https://apps.apple.com/fr/app/tucapp/id6784702798)
-[![GitHub](https://img.shields.io/badge/@KLF249-211B13?style=for-the-badge&logo=github&logoColor=FBF4E9)](https://github.com/klf249)
+[![GitHub](https://img.shields.io/badge/%40KLF249-1D2128?style=for-the-badge&logo=github&logoColor=F7EEDD)](https://github.com/klf249)
 
 </div>
 
@@ -15,72 +13,36 @@
 
 ## About
 
-I'm **Walker**, a **full-stack developer and product builder**. I build products end to end — interface, mobile, backend, real-time systems, infrastructure and release quality.
+I'm **Walker**, a **full-stack developer and product builder**. I work from product decisions and interface quality through backend systems, real-time features, infrastructure and release reliability.
 
-My main project is **Tucapp**, where I focus on making the product feel coherent from the first interaction all the way to production.
+My main project is **Tucapp** — a product I build across **iOS, Android and the web**.
 
-<div align="center">
-<img src="./assets/systems-flow.svg" width="100%" alt="Animated product-to-production flow" />
-</div>
+<img src="./assets/systems-flow.svg" width="100%" alt="Product to production engineering flow" />
 
 ## Build loop
 
-<div align="center">
-<img src="./assets/terminal-loop.svg" width="100%" alt="Animated build loop" />
-</div>
+<img src="./assets/terminal-loop.svg" width="100%" alt="Animated build workflow" />
 
 ## What I work with
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**Frontend & Mobile**  
-React Native · Expo · React · TypeScript  
-Responsive UI · Cross-platform architecture · Native releases
-
-</td>
-<td width="50%" valign="top">
-
-**Backend & Data**  
-Go · REST APIs · PostgreSQL · Redis  
-Authentication · API design · Production architecture
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-**Real-time**  
-LiveKit · WebRTC · Messaging · Push notifications  
-Voice · Presence · Social interaction systems
-
-</td>
-<td width="50%" valign="top">
-
-**Infrastructure & Quality**  
-Vercel · Neon · Cloudflare R2 · OVH / Coolify  
-CI · Security hardening · Release reliability
-
-</td>
-</tr>
-</table>
+<table><tr><td width="50%" valign="top"><b>Frontend & Mobile</b><br/><br/>React Native · Expo · React · TypeScript<br/>Responsive UI · Cross-platform architecture · Native releases</td><td width="50%" valign="top"><b>Backend & Data</b><br/><br/>Go · REST APIs · PostgreSQL · Redis<br/>Authentication · API design · Production architecture</td></tr><tr><td width="50%" valign="top"><b>Real-time</b><br/><br/>LiveKit · WebRTC · Messaging · Push notifications<br/>Voice features · Presence · Social interaction systems</td><td width="50%" valign="top"><b>Infrastructure & Quality</b><br/><br/>Vercel · Neon · Cloudflare R2 · OVH / Coolify<br/>CI · Validation · Security hardening · Release reliability</td></tr></table>
 
 <img src="./assets/section-pulse.svg" width="100%" alt="" />
 
 ## Stack
 
-<div align="center">
-<img src="./assets/stack-strip.svg" width="100%" alt="Walker technology stack" />
-</div>
+<img src="./assets/stack-strip.svg" width="100%" alt="Core technology stack" />
 
 <img src="./assets/section-pulse.svg" width="100%" alt="" />
 
 ## Currently building
 
-**Tucapp** — a cross-platform social product for **iOS, Android and the web**.  
-Current focus: **product polish · real-device reliability · backend clarity · release quality**.
+**Tucapp** — focused on product polish, real-device reliability and clean production systems.
 
-<img src="./assets/footer-wave.svg" width="100%" alt="Animated Tucapp-style footer" />
+<div align="center">
+<img src="https://raw.githubusercontent.com/klf249/klf249/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake" />
+</div>
+
+<img src="./assets/footer-wave.svg" width="100%" alt="Animated footer" />
 
 <div align="center"><sub>Founder & Full-Stack Developer · @klf249</sub></div>

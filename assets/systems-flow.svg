@@ -1,12 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="170" viewBox="0 0 1200 170">
-<rect x="18" y="18" width="1164" height="134" rx="22" fill="#16120C" stroke="#FBF4E9" stroke-opacity=".08"/>
-<path d="M180 85H1020" stroke="#392F22" stroke-width="4" stroke-linecap="round"/>
-<g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="700" text-anchor="middle">
- <g transform="translate(170 85)"><circle r="42" fill="#211B13" stroke="#FF6B35" stroke-opacity=".55"/><text y="5" fill="#FBF4E9">PRODUCT / UI</text></g>
- <g transform="translate(455 85)"><circle r="42" fill="#211B13" stroke="#FBF4E9" stroke-opacity=".12"/><text y="5" fill="#FBF4E9">MOBILE / WEB</text></g>
- <g transform="translate(745 85)"><circle r="42" fill="#211B13" stroke="#FBF4E9" stroke-opacity=".12"/><text y="5" fill="#FBF4E9">BACKEND / DATA</text></g>
- <g transform="translate(1030 85)"><circle r="42" fill="#211B13" stroke="#FFD23F" stroke-opacity=".6"/><text y="5" fill="#FBF4E9">SHIP / INFRA</text></g>
-</g>
-<circle cx="212" cy="85" r="6" fill="#FF6B35"><animate attributeName="cx" values="212;988;212" dur="6.5s" repeatCount="indefinite"/></circle>
-<circle cx="212" cy="85" r="12" fill="#FF6B35" opacity=".14"><animate attributeName="cx" values="212;988;212" dur="6.5s" repeatCount="indefinite"/><animate attributeName="r" values="9;15;9" dur="1.4s" repeatCount="indefinite"/></circle>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150"><rect width="1200" height="150" rx="20" fill="#15181E" stroke="#2A2E36"/><g font-family="Inter,Segoe UI,Arial,sans-serif" font-weight="700" font-size="13"><g fill="#1D2128" stroke="#343A44"><rect x="70" y="54" width="170" height="42" rx="13"/><rect x="320" y="54" width="170" height="42" rx="13"/><rect x="570" y="54" width="170" height="42" rx="13"/><rect x="820" y="54" width="170" height="42" rx="13"/></g><text x="155" y="80" text-anchor="middle" fill="#F7EEDD">PRODUCT / UI</text><text x="405" y="80" text-anchor="middle" fill="#F7EEDD">MOBILE / WEB</text><text x="655" y="80" text-anchor="middle" fill="#F7EEDD">BACKEND / DATA</text><text x="905" y="80" text-anchor="middle" fill="#F7EEDD">INFRA / RELEASE</text></g><path d="M240 75H320M490 75H570M740 75H820" stroke="#575E69" stroke-width="2"/><circle cx="260" cy="75" r="4" fill="#FF6B35"><animate attributeName="cx" values="260;805;260" dur="6.5s" repeatCount="indefinite"/></circle></svg>
