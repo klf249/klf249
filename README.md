@@ -20,7 +20,15 @@ I'm **Walker**, a **full-stack developer and product builder**. I like taking a 
 My main project is **Tucapp**. Most of my work sits at the intersection of **mobile engineering, backend systems, real-time features, product polish and infrastructure**.
 
 <div align="center">
-<img src="./assets/systems-flow.svg" width="100%" alt="Animated overview of Walker's engineering stack" />
+<img src="./assets/stack-orbit.svg" width="100%" alt="Animated engineering orbit" />
+</div>
+
+<img src="./assets/section-pulse.svg" width="100%" alt="" />
+
+## Build loop
+
+<div align="center">
+<img src="./assets/terminal-loop.svg" width="100%" alt="Animated developer terminal" />
 </div>
 
 ## What I work with
