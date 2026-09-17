@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="86" viewBox="0 0 1200 86" role="img" aria-label="Contribution trail">
+  <rect width="1200" height="86" rx="18" fill="#16120C"/>
+  <rect x="1" y="1" width="1198" height="84" rx="17" fill="none" stroke="#F7EEDD" stroke-opacity=".11"/>
+  <circle cx="42" cy="43" r="5" fill="#FF6B35"><animate attributeName="opacity" values=".35;1;.35" dur="2.8s" repeatCount="indefinite"/></circle>
+  <text x="62" y="37" fill="#FBF4E9" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18" font-weight="700">CONTRIBUTION TRAIL</text>
+  <text x="62" y="58" fill="#BAB0A0" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12">daily activity · generated from the real GitHub contribution graph</text>
+  <g transform="translate(876 23)">
+    <rect width="252" height="40" rx="12" fill="#211B13" stroke="#F7EEDD" stroke-opacity=".10"/>
+    <circle cx="24" cy="20" r="4" fill="#FF6B35"/>
+    <circle cx="42" cy="20" r="4" fill="#FFD23F"/>
+    <circle cx="60" cy="20" r="4" fill="#B99671"/>
+    <text x="80" y="25" fill="#F7EEDD" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="12" font-weight="600">live profile activity</text>
+  </g>
+</svg>

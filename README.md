@@ -29,6 +29,14 @@ I care about software that feels intentional: clear interfaces, dependable syste
 
 <img src="./assets/stack-strip.svg" width="100%" alt="Core technology stack" />
 
+
+## Contribution trail
+
+<div align="center">
+<img src="./assets/activity-header.svg" width="100%" alt="Contribution activity" />
+<img src="https://raw.githubusercontent.com/klf249/klf249/output/github-contribution-grid-snake-tucapp.svg" width="100%" alt="Animated GitHub contribution snake" />
+</div>
+
 ## Featured build
 
 <a href="https://tucapp.com"><img src="./assets/tucapp-card.svg" width="100%" alt="Tucapp — cross-platform social product" /></a>
